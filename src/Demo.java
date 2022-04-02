@@ -20,6 +20,7 @@ public class Demo {
 		
 		
 		// print out each starter variable
+		System.out.println("My Started Variables:");
 		System.out.println(myFavoriteInteger);
 		System.out.println(myLeastFavoriteDouble);
 		System.out.println(camelCase);
@@ -27,7 +28,7 @@ public class Demo {
 		
 		
 		// TODO: Add 4 print statements for the variables you declared
-		
+		System.out.println("\nYour Variables:");
 		
 	}
 }

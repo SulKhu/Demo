@@ -1,5 +1,5 @@
-// Written by Sulaimaan K
-// A demonstration of basic Git commands
+// Written by **insert name here**
+// A demonstration of basic Git commands & practice of declaring variables in Java
 
 public class Demo {
 	
@@ -14,11 +14,20 @@ public class Demo {
 		char firstInitial = 'S';
 		
 		
-		// print out each variable
+		// TODO: Declare 4 new variables, an integer, double, boolean, and character
+		// Make sure to name using camelCasing format
+		
+		
+		
+		// print out each starter variable
 		System.out.println(myFavoriteInteger);
 		System.out.println(myLeastFavoriteDouble);
 		System.out.println(camelCase);
 		System.out.println(firstInitial);
+		
+		
+		// TODO: Add 4 print statements for the variables you declared
+		
 		
 	}
 }
